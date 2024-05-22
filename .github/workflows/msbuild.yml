@@ -20,7 +20,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: Windows2016
 
     steps:
     - uses: actions/checkout@v3
